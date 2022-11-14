@@ -1,0 +1,20 @@
+E:\VB.NET\Projeto Login\bin\Debug\Projeto Login.exe.config
+E:\VB.NET\Projeto Login\bin\Debug\Projeto Login.exe
+E:\VB.NET\Projeto Login\bin\Debug\Projeto Login.pdb
+E:\VB.NET\Projeto Login\bin\Debug\Projeto Login.xml
+E:\VB.NET\Projeto Login\obj\Debug\Projeto_Login.frmLogin.resources
+E:\VB.NET\Projeto Login\obj\Debug\Projeto_Login.Resources.resources
+E:\VB.NET\Projeto Login\obj\Debug\Projeto Login.vbproj.GenerateResource.Cache
+E:\VB.NET\Projeto Login\obj\Debug\Projeto Login.exe
+E:\VB.NET\Projeto Login\obj\Debug\Projeto Login.xml
+E:\VB.NET\Projeto Login\obj\Debug\Projeto Login.pdb
+C:\Users\administrador1\Desktop\Vb.net dom bosco\VB.NET\Projeto Login\bin\Debug\Projeto Login.exe.config
+C:\Users\administrador1\Desktop\Vb.net dom bosco\VB.NET\Projeto Login\obj\Debug\Projeto Login.exe
+C:\Users\administrador1\Desktop\Vb.net dom bosco\VB.NET\Projeto Login\obj\Debug\Projeto Login.xml
+C:\Users\administrador1\Desktop\Vb.net dom bosco\VB.NET\Projeto Login\obj\Debug\Projeto Login.pdb
+C:\Users\administrador1\Desktop\Vb.net dom bosco\VB.NET\Projeto Login\bin\Debug\Projeto Login.exe
+C:\Users\administrador1\Desktop\Vb.net dom bosco\VB.NET\Projeto Login\bin\Debug\Projeto Login.pdb
+C:\Users\administrador1\Desktop\Vb.net dom bosco\VB.NET\Projeto Login\bin\Debug\Projeto Login.xml
+C:\Users\administrador1\Desktop\Vb.net dom bosco\VB.NET\Projeto Login\obj\Debug\Projeto_Login.frmLogin.resources
+C:\Users\administrador1\Desktop\Vb.net dom bosco\VB.NET\Projeto Login\obj\Debug\Projeto_Login.Resources.resources
+C:\Users\administrador1\Desktop\Vb.net dom bosco\VB.NET\Projeto Login\obj\Debug\Projeto Login.vbproj.GenerateResource.Cache

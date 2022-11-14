@@ -1,0 +1,469 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4D261405-6DCF-4557-8B15-0FBA4BFA525D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Projeto_Sistema_de_Hotel.My.MyApplication</StartupObject>
+    <RootNamespace>Projeto_Sistema_de_Hotel</RootNamespace>
+    <AssemblyName>Projeto Sistema de Hotel</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Projeto Sistema de Hotel.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Projeto Sistema de Hotel.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AreaPet.Designer.vb">
+      <DependentUpon>AreaPet.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AreaPet.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CadastrarCliente.Designer.vb">
+      <DependentUpon>CadastrarCliente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CadastrarCliente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consulta.Designer.vb">
+      <DependentUpon>Consulta.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Consulta.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Estacionamento.Designer.vb">
+      <DependentUpon>Estacionamento.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Estacionamento.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatoriocliente.Designer.vb">
+      <DependentUpon>Relatoriocliente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Relatoriocliente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Restaurante.Designer.vb">
+      <DependentUpon>Restaurante.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Restaurante.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Suites.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Suites.Designer.vb">
+      <DependentUpon>Suites.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.vb">
+      <DependentUpon>Login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Principal.Designer.vb">
+      <DependentUpon>Principal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Principal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tb_cadastroDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>tb_cadastroDataSet.xsd</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AreaPet.resx">
+      <DependentUpon>AreaPet.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CadastrarCliente.resx">
+      <DependentUpon>CadastrarCliente.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consulta.resx">
+      <DependentUpon>Consulta.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Estacionamento.resx">
+      <DependentUpon>Estacionamento.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatoriocliente.resx">
+      <DependentUpon>Relatoriocliente.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sistemahotel.rdlc" />
+    <EmbeddedResource Include="Restaurante.resx">
+      <DependentUpon>Restaurante.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Suites.resx">
+      <DependentUpon>Suites.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principal.resx">
+      <DependentUpon>Principal.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+    <None Include="tb_cadastroDataSet.xsc">
+      <DependentUpon>tb_cadastroDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="tb_cadastroDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>tb_cadastroDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="tb_cadastroDataSet.xss">
+      <DependentUpon>tb_cadastroDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Limpeza.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Livre.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Oculpado.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3f3f660b6516a518c5ee89c478042824.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\editadadeficiente.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\carro-estacionado-na-zona-de-estacionamento_24911-8765.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\depositphotos_211957546-stock-illustration-car-icon-black-white-design.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\depositphotos_147708233-stock-illustration-motocross-motorbike-icon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\placa-proibido-estacionar-entrada-de-motos-aluminio-15x20cm-D_NQ_NP_724836-MLB26592468527_012018-F.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EditadaMoto.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\estacionamento-exclusivo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EditadaExclusivoClientes.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Editada1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cardapio-chalkboard-lousa-quadro-negro-D_NQ_NP_668778-MLB28225011390_092018-F.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\D_NP_608869-MLB28225023243_092018-Q.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menu-poster-chalkboard-30x40-menu-06-D_NQ_NP_773152-MLB26339338033_112017-F.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\burguersimples.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hamburguer2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\comboburguer.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kingburguer.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4queijos.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Alicci.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\americana.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Atum.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bacon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Baiana.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Brcolis.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CababresaCATUPIRI.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Camponesa.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\catupiry.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\champgnon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\crocante.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Escarola.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FrangoCaipira.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FrangoCATUPIRI.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FrangoChedar.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gorgonzola.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Grega.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Havaiana.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Humita.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Lombo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LomboCalifornia.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LomboCanadense.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LomboCatupiry.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Madalena.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Margarita.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Marguerita.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mexicana.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MilhoVERDE.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mussarela.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\napolitana.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Portuguesa.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Provolone.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Vegetariana.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AlhoeOLEO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CafeComum.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CafeComumDesenhado.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CafeFamilia.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CalabreaMineira.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CalabrezaCHEDAR.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EspeciariasemCAFÈ.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Importados.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\almoço1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\almoço2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\almoço3.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\almoço4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ALmoço5FrutosMar.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\almoço7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AlmoçoFrutosMAr6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CamaraoAparte2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jantarcozido-marroquino-com-quinoa_4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Jantargrao-de-bico-com-frango-e-legumes.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jantarMacarraoCamaraoTomate.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\JantarMacarraoCarneRucula.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\JantarPanquecas.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Jantar5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Jantar7 almondegas.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3.jpg" />
+    <None Include="Resources\PetPrincipal.jpg" />
+    <None Include="Resources\esse.jpeg" />
+    <None Include="Resources\227e4f1b4a.jpg" />
+    <None Include="Resources\beibehang-papel-de-parede-D-three-dimensional-simulation-brick-stone-culture-stone-PVC-waterproof-wallpaper-store.jpg" />
+    <None Include="Resources\_100729023_photojan2970152am-1.jpg" />
+    <None Include="Resources\4.png" />
+    <None Include="Resources\amizade-gato-cachorro-01.jpg" />
+    <None Include="Resources\Cachorros-Fotografia-4.jpg" />
+    <None Include="Resources\caoegato-5659767.jpg" />
+    <None Include="Resources\cão-e-gato-viajam-11-760x910.jpg" />
+    <Content Include="tb_cadastro.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,37 @@
+F:\VB.NET\Motos\Sistema de Motos\Sistema de Motos\bin\Debug\Sistema de Motos.exe.config
+F:\VB.NET\Motos\Sistema de Motos\Sistema de Motos\bin\Debug\Sistema de Motos.exe
+F:\VB.NET\Motos\Sistema de Motos\Sistema de Motos\bin\Debug\Sistema de Motos.pdb
+F:\VB.NET\Motos\Sistema de Motos\Sistema de Motos\bin\Debug\Sistema de Motos.xml
+F:\VB.NET\Motos\Sistema de Motos\Sistema de Motos\obj\Debug\Sistema de Motos.vbprojResolveAssemblyReference.cache
+F:\VB.NET\Motos\Sistema de Motos\Sistema de Motos\obj\Debug\Sistema_de_Motos.CadastroDeClientes.resources
+F:\VB.NET\Motos\Sistema de Motos\Sistema de Motos\obj\Debug\Sistema_de_Motos.CadastrodeMotos.resources
+F:\VB.NET\Motos\Sistema de Motos\Sistema de Motos\obj\Debug\Sistema_de_Motos.ConsultaDeCliente.resources
+F:\VB.NET\Motos\Sistema de Motos\Sistema de Motos\obj\Debug\Sistema_de_Motos.ConsultaDeMotos.resources
+F:\VB.NET\Motos\Sistema de Motos\Sistema de Motos\obj\Debug\Sistema_de_Motos.Desenvolvedor.resources
+F:\VB.NET\Motos\Sistema de Motos\Sistema de Motos\obj\Debug\Sistema_de_Motos.FrmMenu.resources
+F:\VB.NET\Motos\Sistema de Motos\Sistema de Motos\obj\Debug\Sistema_de_Motos.LoginForm1.resources
+F:\VB.NET\Motos\Sistema de Motos\Sistema de Motos\obj\Debug\Sistema_de_Motos.Resources.resources
+F:\VB.NET\Motos\Sistema de Motos\Sistema de Motos\obj\Debug\Sistema_de_Motos.Sistema.resources
+F:\VB.NET\Motos\Sistema de Motos\Sistema de Motos\obj\Debug\Sistema de Motos.vbproj.GenerateResource.Cache
+F:\VB.NET\Motos\Sistema de Motos\Sistema de Motos\obj\Debug\Sistema de Motos.exe
+F:\VB.NET\Motos\Sistema de Motos\Sistema de Motos\obj\Debug\Sistema de Motos.xml
+F:\VB.NET\Motos\Sistema de Motos\Sistema de Motos\obj\Debug\Sistema de Motos.pdb
+E:\VB.NET\Motos\Sistema de Motos\Sistema de Motos\bin\Debug\Sistema de Motos.exe.config
+E:\VB.NET\Motos\Sistema de Motos\Sistema de Motos\bin\Debug\Sistema de Motos.exe
+E:\VB.NET\Motos\Sistema de Motos\Sistema de Motos\bin\Debug\Sistema de Motos.pdb
+E:\VB.NET\Motos\Sistema de Motos\Sistema de Motos\bin\Debug\Sistema de Motos.xml
+E:\VB.NET\Motos\Sistema de Motos\Sistema de Motos\obj\Debug\Sistema_de_Motos.FrmCadastroDeClientes.resources
+E:\VB.NET\Motos\Sistema de Motos\Sistema de Motos\obj\Debug\Sistema_de_Motos.FrmCadastrodeMotos.resources
+E:\VB.NET\Motos\Sistema de Motos\Sistema de Motos\obj\Debug\Sistema_de_Motos.FrmConsultaDeCliente.resources
+E:\VB.NET\Motos\Sistema de Motos\Sistema de Motos\obj\Debug\Sistema_de_Motos.FrmConsultaDeMotos.resources
+E:\VB.NET\Motos\Sistema de Motos\Sistema de Motos\obj\Debug\Sistema_de_Motos.FrmDesenvolvedor.resources
+E:\VB.NET\Motos\Sistema de Motos\Sistema de Motos\obj\Debug\Sistema_de_Motos.fRMMENU2.resources
+E:\VB.NET\Motos\Sistema de Motos\Sistema de Motos\obj\Debug\Sistema_de_Motos.frmTelaLogin.resources
+E:\VB.NET\Motos\Sistema de Motos\Sistema de Motos\obj\Debug\Sistema_de_Motos.Resources.resources
+E:\VB.NET\Motos\Sistema de Motos\Sistema de Motos\obj\Debug\Sistema_de_Motos.FrmRelatório_De_Clientes.resources
+E:\VB.NET\Motos\Sistema de Motos\Sistema de Motos\obj\Debug\Sistema_de_Motos.FrmRelatórioDeMotos.resources
+E:\VB.NET\Motos\Sistema de Motos\Sistema de Motos\obj\Debug\Sistema_de_Motos.FrmSistema.resources
+E:\VB.NET\Motos\Sistema de Motos\Sistema de Motos\obj\Debug\Sistema de Motos.vbproj.GenerateResource.Cache
+E:\VB.NET\Motos\Sistema de Motos\Sistema de Motos\obj\Debug\Sistema de Motos.exe
+E:\VB.NET\Motos\Sistema de Motos\Sistema de Motos\obj\Debug\Sistema de Motos.xml
+E:\VB.NET\Motos\Sistema de Motos\Sistema de Motos\obj\Debug\Sistema de Motos.pdb

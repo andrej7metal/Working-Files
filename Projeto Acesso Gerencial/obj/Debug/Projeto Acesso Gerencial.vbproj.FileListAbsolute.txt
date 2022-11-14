@@ -1,0 +1,11 @@
+E:\VB.NET\Projeto Acesso Gerencial\bin\Debug\Projeto Acesso Gerencial.exe.config
+E:\VB.NET\Projeto Acesso Gerencial\bin\Debug\Projeto Acesso Gerencial.exe
+E:\VB.NET\Projeto Acesso Gerencial\bin\Debug\Projeto Acesso Gerencial.pdb
+E:\VB.NET\Projeto Acesso Gerencial\bin\Debug\Projeto Acesso Gerencial.xml
+E:\VB.NET\Projeto Acesso Gerencial\obj\Debug\Projeto_Acesso_Gerencial.frmFormulario2.resources
+E:\VB.NET\Projeto Acesso Gerencial\obj\Debug\Projeto_Acesso_Gerencial.frmAcessoGerencial.resources
+E:\VB.NET\Projeto Acesso Gerencial\obj\Debug\Projeto_Acesso_Gerencial.Resources.resources
+E:\VB.NET\Projeto Acesso Gerencial\obj\Debug\Projeto Acesso Gerencial.vbproj.GenerateResource.Cache
+E:\VB.NET\Projeto Acesso Gerencial\obj\Debug\Projeto Acesso Gerencial.exe
+E:\VB.NET\Projeto Acesso Gerencial\obj\Debug\Projeto Acesso Gerencial.xml
+E:\VB.NET\Projeto Acesso Gerencial\obj\Debug\Projeto Acesso Gerencial.pdb

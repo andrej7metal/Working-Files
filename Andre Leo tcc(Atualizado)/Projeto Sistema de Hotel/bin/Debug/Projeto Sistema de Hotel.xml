@@ -1,0 +1,420 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ProjetoSistemadeHotel
+</name>
+</assembly>
+<members>
+<member name="T:Projeto_Sistema_de_Hotel.tb_cadastroDataSet.tb_cadastroDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Projeto_Sistema_de_Hotel.tb_cadastroDataSet.tb_cadastroRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Projeto_Sistema_de_Hotel.tb_cadastroDataSet.tb_cadastroRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Projeto_Sistema_de_Hotel.tb_cadastroDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Projeto_Sistema_de_Hotel.tb_cadastroDataSetTableAdapters.tb_cadastroTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Projeto_Sistema_de_Hotel.tb_cadastroDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Projeto_Sistema_de_Hotel.tb_cadastroDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Projeto_Sistema_de_Hotel.tb_cadastroDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Projeto_Sistema_de_Hotel.tb_cadastroDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Projeto_Sistema_de_Hotel.tb_cadastroDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Projeto_Sistema_de_Hotel.tb_cadastroDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Projeto_Sistema_de_Hotel.tb_cadastroDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Projeto_Sistema_de_Hotel.tb_cadastroDataSetTableAdapters.TableAdapterManager.UpdateAll(Projeto_Sistema_de_Hotel.tb_cadastroDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Projeto_Sistema_de_Hotel.tb_cadastroDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Projeto_Sistema_de_Hotel.tb_cadastroDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Projeto_Sistema_de_Hotel.tb_cadastroDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:Projeto_Sistema_de_Hotel.My.Resources.Resources.ResourceManager">
+	<summary>
+  Retorna a instância de ResourceManager armazenada em cache usada por essa classe.
+</summary>
+</member><member name="P:Projeto_Sistema_de_Hotel.My.Resources.Resources.Culture">
+	<summary>
+  Substitui a propriedade CurrentUICulture do thread atual para todas as
+  pesquisas de recursos que usam essa classe de recurso de tipo de alta segurança.
+</summary>
+</member><member name="P:Projeto_Sistema_de_Hotel.My.Resources.Resources._100729023_photojan2970152am_1">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sistema_de_Hotel.My.Resources.Resources._227e4f1b4a">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sistema_de_Hotel.My.Resources.Resources._4">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sistema_de_Hotel.My.Resources.Resources._4queijos">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sistema_de_Hotel.My.Resources.Resources.AlhoeOLEO">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sistema_de_Hotel.My.Resources.Resources.Alicci">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sistema_de_Hotel.My.Resources.Resources.almoço1">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sistema_de_Hotel.My.Resources.Resources.almoço2">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sistema_de_Hotel.My.Resources.Resources.almoço3">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sistema_de_Hotel.My.Resources.Resources.almoço4">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sistema_de_Hotel.My.Resources.Resources.ALmoço5FrutosMar">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sistema_de_Hotel.My.Resources.Resources.almoço7">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sistema_de_Hotel.My.Resources.Resources.AlmoçoFrutosMAr6">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sistema_de_Hotel.My.Resources.Resources.americana">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sistema_de_Hotel.My.Resources.Resources.amizade_gato_cachorro_01">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sistema_de_Hotel.My.Resources.Resources.Atum">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sistema_de_Hotel.My.Resources.Resources.Bacon">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sistema_de_Hotel.My.Resources.Resources.Baiana">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sistema_de_Hotel.My.Resources.Resources.beibehang_papel_de_parede_D_three_dimensional_simulation_brick_stone_culture_stone_PVC_waterproof_wallpaper_store">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sistema_de_Hotel.My.Resources.Resources.Brcolis">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sistema_de_Hotel.My.Resources.Resources.burguersimples">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sistema_de_Hotel.My.Resources.Resources.CababresaCATUPIRI">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sistema_de_Hotel.My.Resources.Resources.Cachorros_Fotografia_4">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sistema_de_Hotel.My.Resources.Resources.CafeComum">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sistema_de_Hotel.My.Resources.Resources.CafeComumDesenhado">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sistema_de_Hotel.My.Resources.Resources.CafeFamilia">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sistema_de_Hotel.My.Resources.Resources.CalabreaMineira">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sistema_de_Hotel.My.Resources.Resources.CalabrezaCHEDAR">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sistema_de_Hotel.My.Resources.Resources.CamaraoAparte2">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sistema_de_Hotel.My.Resources.Resources.Camponesa">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sistema_de_Hotel.My.Resources.Resources.cão_e_gato_viajam_11_760x910">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sistema_de_Hotel.My.Resources.Resources.caoegato_5659767">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sistema_de_Hotel.My.Resources.Resources.cardapio_chalkboard_lousa_quadro_negro_D_NQ_NP_668778_MLB28225011390_092018_F">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sistema_de_Hotel.My.Resources.Resources.catupiry">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sistema_de_Hotel.My.Resources.Resources.champgnon">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sistema_de_Hotel.My.Resources.Resources.comboburguer">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sistema_de_Hotel.My.Resources.Resources.crocante">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sistema_de_Hotel.My.Resources.Resources.D_NP_608869_MLB28225023243_092018_Q">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sistema_de_Hotel.My.Resources.Resources.download">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sistema_de_Hotel.My.Resources.Resources.Editada1">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sistema_de_Hotel.My.Resources.Resources.editadadeficiente">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sistema_de_Hotel.My.Resources.Resources.EditadaExclusivoClientes">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sistema_de_Hotel.My.Resources.Resources.EditadaMoto">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sistema_de_Hotel.My.Resources.Resources.Escarola">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sistema_de_Hotel.My.Resources.Resources.EspeciariasemCAFÈ">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sistema_de_Hotel.My.Resources.Resources.esse">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sistema_de_Hotel.My.Resources.Resources.FrangoCaipira">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sistema_de_Hotel.My.Resources.Resources.FrangoCATUPIRI">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sistema_de_Hotel.My.Resources.Resources.FrangoChedar">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sistema_de_Hotel.My.Resources.Resources.Gorgonzola">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sistema_de_Hotel.My.Resources.Resources.Grega">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sistema_de_Hotel.My.Resources.Resources.hamburguer2">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sistema_de_Hotel.My.Resources.Resources.Havaiana">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sistema_de_Hotel.My.Resources.Resources.Humita">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sistema_de_Hotel.My.Resources.Resources.Importados">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sistema_de_Hotel.My.Resources.Resources.Jantar5">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sistema_de_Hotel.My.Resources.Resources.Jantar7_almondegas">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sistema_de_Hotel.My.Resources.Resources.jantarcozido_marroquino_com_quinoa_4">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sistema_de_Hotel.My.Resources.Resources.Jantargrao_de_bico_com_frango_e_legumes">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sistema_de_Hotel.My.Resources.Resources.jantarMacarraoCamaraoTomate">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sistema_de_Hotel.My.Resources.Resources.JantarMacarraoCarneRucula">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sistema_de_Hotel.My.Resources.Resources.JantarPanquecas">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sistema_de_Hotel.My.Resources.Resources.kingburguer">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sistema_de_Hotel.My.Resources.Resources.Limpeza">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sistema_de_Hotel.My.Resources.Resources.Livre">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sistema_de_Hotel.My.Resources.Resources.Lombo">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sistema_de_Hotel.My.Resources.Resources.LomboCalifornia">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sistema_de_Hotel.My.Resources.Resources.LomboCanadense">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sistema_de_Hotel.My.Resources.Resources.LomboCatupiry">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sistema_de_Hotel.My.Resources.Resources.Madalena">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sistema_de_Hotel.My.Resources.Resources.Margarita">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sistema_de_Hotel.My.Resources.Resources.Marguerita">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sistema_de_Hotel.My.Resources.Resources.menu_poster_chalkboard_30x40_menu_06_D_NQ_NP_773152_MLB26339338033_112017_F">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sistema_de_Hotel.My.Resources.Resources.Mexicana">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sistema_de_Hotel.My.Resources.Resources.MilhoVERDE">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sistema_de_Hotel.My.Resources.Resources.MotoDisponivel">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sistema_de_Hotel.My.Resources.Resources.MotoProibidoEstacionar">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sistema_de_Hotel.My.Resources.Resources.Mussarela">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sistema_de_Hotel.My.Resources.Resources.napolitana">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sistema_de_Hotel.My.Resources.Resources.Oculpado">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sistema_de_Hotel.My.Resources.Resources.PetPrincipal">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sistema_de_Hotel.My.Resources.Resources.Portuguesa">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sistema_de_Hotel.My.Resources.Resources.Provolone">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sistema_de_Hotel.My.Resources.Resources.VagaDisponivel">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sistema_de_Hotel.My.Resources.Resources.VagaOculpada">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sistema_de_Hotel.My.Resources.Resources.Vegetariana">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Projeto_Sistema_de_Hotel.My.Resources.Resources">
+	<summary>
+  Uma classe de recurso de tipo de alta segurança, para pesquisar cadeias de caracteres localizadas etc.
+</summary>
+</member>
+</members>
+</doc>

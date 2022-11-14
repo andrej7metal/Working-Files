@@ -1,0 +1,2 @@
+C:\Users\administrador1\Desktop\Vb.net dom bosco\Andre Leo tcc\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+E:\Vb.net dom bosco\VB.NET\Andre Leo tcc\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config

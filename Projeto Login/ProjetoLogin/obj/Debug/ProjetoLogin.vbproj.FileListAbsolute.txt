@@ -1,0 +1,20 @@
+E:\VB.NET\Projeto Login\ProjetoLogin\bin\Debug\ProjetoLogin.exe.config
+E:\VB.NET\Projeto Login\ProjetoLogin\bin\Debug\ProjetoLogin.exe
+E:\VB.NET\Projeto Login\ProjetoLogin\bin\Debug\ProjetoLogin.pdb
+E:\VB.NET\Projeto Login\ProjetoLogin\bin\Debug\ProjetoLogin.xml
+E:\VB.NET\Projeto Login\ProjetoLogin\obj\Debug\ProjetoLogin.FrmTelaDeLogin.resources
+E:\VB.NET\Projeto Login\ProjetoLogin\obj\Debug\ProjetoLogin.Resources.resources
+E:\VB.NET\Projeto Login\ProjetoLogin\obj\Debug\ProjetoLogin.vbproj.GenerateResource.Cache
+E:\VB.NET\Projeto Login\ProjetoLogin\obj\Debug\ProjetoLogin.exe
+E:\VB.NET\Projeto Login\ProjetoLogin\obj\Debug\ProjetoLogin.xml
+E:\VB.NET\Projeto Login\ProjetoLogin\obj\Debug\ProjetoLogin.pdb
+C:\Users\Rene Filho\Desktop\VB.NET\Projeto Login\ProjetoLogin\bin\Debug\ProjetoLogin.exe.config
+C:\Users\Rene Filho\Desktop\VB.NET\Projeto Login\ProjetoLogin\obj\Debug\ProjetoLogin.exe
+C:\Users\Rene Filho\Desktop\VB.NET\Projeto Login\ProjetoLogin\obj\Debug\ProjetoLogin.xml
+C:\Users\Rene Filho\Desktop\VB.NET\Projeto Login\ProjetoLogin\obj\Debug\ProjetoLogin.pdb
+C:\Users\Rene Filho\Desktop\VB.NET\Projeto Login\ProjetoLogin\bin\Debug\ProjetoLogin.exe
+C:\Users\Rene Filho\Desktop\VB.NET\Projeto Login\ProjetoLogin\bin\Debug\ProjetoLogin.pdb
+C:\Users\Rene Filho\Desktop\VB.NET\Projeto Login\ProjetoLogin\bin\Debug\ProjetoLogin.xml
+C:\Users\Rene Filho\Desktop\VB.NET\Projeto Login\ProjetoLogin\obj\Debug\ProjetoLogin.FrmTelaDeLogin.resources
+C:\Users\Rene Filho\Desktop\VB.NET\Projeto Login\ProjetoLogin\obj\Debug\ProjetoLogin.Resources.resources
+C:\Users\Rene Filho\Desktop\VB.NET\Projeto Login\ProjetoLogin\obj\Debug\ProjetoLogin.vbproj.GenerateResource.Cache

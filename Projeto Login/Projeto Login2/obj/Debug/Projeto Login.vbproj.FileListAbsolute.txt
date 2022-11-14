@@ -1,0 +1,10 @@
+E:\VB.NET\Projeto Login\bin\Debug\Projeto Login.exe.config
+E:\VB.NET\Projeto Login\bin\Debug\Projeto Login.exe
+E:\VB.NET\Projeto Login\bin\Debug\Projeto Login.pdb
+E:\VB.NET\Projeto Login\bin\Debug\Projeto Login.xml
+E:\VB.NET\Projeto Login\obj\Debug\Projeto_Login.frmLogin.resources
+E:\VB.NET\Projeto Login\obj\Debug\Projeto_Login.Resources.resources
+E:\VB.NET\Projeto Login\obj\Debug\Projeto Login.vbproj.GenerateResource.Cache
+E:\VB.NET\Projeto Login\obj\Debug\Projeto Login.exe
+E:\VB.NET\Projeto Login\obj\Debug\Projeto Login.xml
+E:\VB.NET\Projeto Login\obj\Debug\Projeto Login.pdb

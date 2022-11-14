@@ -1,0 +1,12 @@
+C:\Users\administrador1\Desktop\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\administrador1\Desktop\WindowsApplication1\bin\Debug\CadastroClientes.accdb
+C:\Users\administrador1\Desktop\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\administrador1\Desktop\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\administrador1\Desktop\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\administrador1\Desktop\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\administrador1\Desktop\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\administrador1\Desktop\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\administrador1\Desktop\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\administrador1\Desktop\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\administrador1\Desktop\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\administrador1\Desktop\WindowsApplication1\obj\Debug\WindowsApplication1.FrmCadastro.resources

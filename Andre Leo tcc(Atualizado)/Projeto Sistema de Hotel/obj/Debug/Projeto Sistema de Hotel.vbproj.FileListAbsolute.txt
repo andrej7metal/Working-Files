@@ -1,0 +1,144 @@
+C:\Users\administrador1\Desktop\Vb.net dom bosco\Andre Leo tcc\Projeto Sistema de Hotel\bin\Debug\Projeto Sistema de Hotel.exe.config
+C:\Users\administrador1\Desktop\Vb.net dom bosco\Andre Leo tcc\Projeto Sistema de Hotel\bin\Debug\Projeto Sistema de Hotel.exe
+C:\Users\administrador1\Desktop\Vb.net dom bosco\Andre Leo tcc\Projeto Sistema de Hotel\bin\Debug\Projeto Sistema de Hotel.pdb
+C:\Users\administrador1\Desktop\Vb.net dom bosco\Andre Leo tcc\Projeto Sistema de Hotel\bin\Debug\Projeto Sistema de Hotel.xml
+C:\Users\administrador1\Desktop\Vb.net dom bosco\Andre Leo tcc\Projeto Sistema de Hotel\obj\Debug\Projeto_Sistema_de_Hotel.Resources.resources
+C:\Users\administrador1\Desktop\Vb.net dom bosco\Andre Leo tcc\Projeto Sistema de Hotel\obj\Debug\Projeto Sistema de Hotel.vbproj.GenerateResource.Cache
+C:\Users\administrador1\Desktop\Vb.net dom bosco\Andre Leo tcc\Projeto Sistema de Hotel\obj\Debug\Projeto Sistema de Hotel.exe
+C:\Users\administrador1\Desktop\Vb.net dom bosco\Andre Leo tcc\Projeto Sistema de Hotel\obj\Debug\Projeto Sistema de Hotel.xml
+C:\Users\administrador1\Desktop\Vb.net dom bosco\Andre Leo tcc\Projeto Sistema de Hotel\obj\Debug\Projeto Sistema de Hotel.pdb
+C:\Users\administrador1\Desktop\Vb.net dom bosco\Andre Leo tcc\Projeto Sistema de Hotel\obj\Debug\Projeto_Sistema_de_Hotel.FrmLogin.resources
+C:\Users\administrador1\Desktop\Vb.net dom bosco\Andre Leo tcc\Projeto Sistema de Hotel\obj\Debug\Projeto_Sistema_de_Hotel.FrmSuites.resources
+C:\Users\administrador1\Desktop\Vb.net dom bosco\Andre Leo tcc\Projeto Sistema de Hotel\obj\Debug\Projeto_Sistema_de_Hotel.FrmPrincipal.resources
+C:\Users\administrador1\Desktop\Vb.net dom bosco\Andre Leo tcc\Projeto Sistema de Hotel\obj\Debug\Projeto_Sistema_de_Hotel.FrmEstacionamento.resources
+C:\Users\administrador1\Desktop\Vb.net dom bosco\Andre Leo tcc\Projeto Sistema de Hotel\obj\Debug\Projeto_Sistema_de_Hotel.FrmCadastrarCliente.resources
+C:\Users\administrador1\Desktop\VB.NET\Andre Leo tcc\Projeto Sistema de Hotel\bin\Debug\Projeto Sistema de Hotel.exe.config
+C:\Users\administrador1\Desktop\VB.NET\Andre Leo tcc\Projeto Sistema de Hotel\obj\Debug\Projeto Sistema de Hotel.exe
+C:\Users\administrador1\Desktop\VB.NET\Andre Leo tcc\Projeto Sistema de Hotel\obj\Debug\Projeto Sistema de Hotel.xml
+C:\Users\administrador1\Desktop\VB.NET\Andre Leo tcc\Projeto Sistema de Hotel\obj\Debug\Projeto Sistema de Hotel.pdb
+C:\Users\administrador1\Desktop\VB.NET\Andre Leo tcc\Projeto Sistema de Hotel\bin\Debug\Projeto Sistema de Hotel.exe
+C:\Users\administrador1\Desktop\VB.NET\Andre Leo tcc\Projeto Sistema de Hotel\bin\Debug\Projeto Sistema de Hotel.pdb
+C:\Users\administrador1\Desktop\VB.NET\Andre Leo tcc\Projeto Sistema de Hotel\bin\Debug\Projeto Sistema de Hotel.xml
+C:\Users\administrador1\Desktop\VB.NET\Andre Leo tcc\Projeto Sistema de Hotel\obj\Debug\Projeto_Sistema_de_Hotel.FrmCadastrarCliente.resources
+C:\Users\administrador1\Desktop\VB.NET\Andre Leo tcc\Projeto Sistema de Hotel\obj\Debug\Projeto_Sistema_de_Hotel.FrmEstacionamento.resources
+C:\Users\administrador1\Desktop\VB.NET\Andre Leo tcc\Projeto Sistema de Hotel\obj\Debug\Projeto_Sistema_de_Hotel.FrmSuites.resources
+C:\Users\administrador1\Desktop\VB.NET\Andre Leo tcc\Projeto Sistema de Hotel\obj\Debug\Projeto_Sistema_de_Hotel.FrmLogin.resources
+C:\Users\administrador1\Desktop\VB.NET\Andre Leo tcc\Projeto Sistema de Hotel\obj\Debug\Projeto_Sistema_de_Hotel.Resources.resources
+C:\Users\administrador1\Desktop\VB.NET\Andre Leo tcc\Projeto Sistema de Hotel\obj\Debug\Projeto_Sistema_de_Hotel.FrmPrincipal.resources
+C:\Users\administrador1\Desktop\VB.NET\Andre Leo tcc\Projeto Sistema de Hotel\obj\Debug\Projeto Sistema de Hotel.vbproj.GenerateResource.Cache
+C:\Users\administrador1\Desktop\VB.NET\Andre Leo tcc\Projeto Sistema de Hotel\obj\Debug\Projeto_Sistema_de_Hotel.FRMRestaurante.resources
+D:\Vb.net dom bosco\VB.NET\Andre Leo tcc\Projeto Sistema de Hotel\bin\Debug\Projeto Sistema de Hotel.exe.config
+D:\Vb.net dom bosco\VB.NET\Andre Leo tcc\Projeto Sistema de Hotel\obj\Debug\Projeto Sistema de Hotel.exe
+D:\Vb.net dom bosco\VB.NET\Andre Leo tcc\Projeto Sistema de Hotel\obj\Debug\Projeto Sistema de Hotel.xml
+D:\Vb.net dom bosco\VB.NET\Andre Leo tcc\Projeto Sistema de Hotel\obj\Debug\Projeto Sistema de Hotel.pdb
+D:\Vb.net dom bosco\VB.NET\Andre Leo tcc\Projeto Sistema de Hotel\bin\Debug\Projeto Sistema de Hotel.exe
+D:\Vb.net dom bosco\VB.NET\Andre Leo tcc\Projeto Sistema de Hotel\bin\Debug\Projeto Sistema de Hotel.pdb
+D:\Vb.net dom bosco\VB.NET\Andre Leo tcc\Projeto Sistema de Hotel\bin\Debug\Projeto Sistema de Hotel.xml
+D:\Vb.net dom bosco\VB.NET\Andre Leo tcc\Projeto Sistema de Hotel\obj\Debug\Projeto_Sistema_de_Hotel.FrmCadastrarCliente.resources
+D:\Vb.net dom bosco\VB.NET\Andre Leo tcc\Projeto Sistema de Hotel\obj\Debug\Projeto_Sistema_de_Hotel.FrmEstacionamento.resources
+D:\Vb.net dom bosco\VB.NET\Andre Leo tcc\Projeto Sistema de Hotel\obj\Debug\Projeto_Sistema_de_Hotel.FRMRestaurante.resources
+D:\Vb.net dom bosco\VB.NET\Andre Leo tcc\Projeto Sistema de Hotel\obj\Debug\Projeto_Sistema_de_Hotel.FrmSuites.resources
+D:\Vb.net dom bosco\VB.NET\Andre Leo tcc\Projeto Sistema de Hotel\obj\Debug\Projeto_Sistema_de_Hotel.FrmLogin.resources
+D:\Vb.net dom bosco\VB.NET\Andre Leo tcc\Projeto Sistema de Hotel\obj\Debug\Projeto_Sistema_de_Hotel.Resources.resources
+D:\Vb.net dom bosco\VB.NET\Andre Leo tcc\Projeto Sistema de Hotel\obj\Debug\Projeto_Sistema_de_Hotel.FrmPrincipal.resources
+D:\Vb.net dom bosco\VB.NET\Andre Leo tcc\Projeto Sistema de Hotel\obj\Debug\Projeto Sistema de Hotel.vbproj.GenerateResource.Cache
+F:\Vb.net dom bosco\VB.NET\Andre Leo tcc\Projeto Sistema de Hotel\bin\Debug\Projeto Sistema de Hotel.exe.config
+F:\Vb.net dom bosco\VB.NET\Andre Leo tcc\Projeto Sistema de Hotel\obj\Debug\Projeto Sistema de Hotel.exe
+F:\Vb.net dom bosco\VB.NET\Andre Leo tcc\Projeto Sistema de Hotel\obj\Debug\Projeto Sistema de Hotel.xml
+F:\Vb.net dom bosco\VB.NET\Andre Leo tcc\Projeto Sistema de Hotel\obj\Debug\Projeto Sistema de Hotel.pdb
+E:\Vb.net dom bosco\VB.NET\Andre Leo tcc\Projeto Sistema de Hotel\bin\Debug\tb_cadastro.accdb
+E:\Vb.net dom bosco\VB.NET\Andre Leo tcc\Projeto Sistema de Hotel\bin\Debug\Projeto Sistema de Hotel.exe.config
+E:\Vb.net dom bosco\VB.NET\Andre Leo tcc\Projeto Sistema de Hotel\bin\Debug\Projeto Sistema de Hotel.exe
+E:\Vb.net dom bosco\VB.NET\Andre Leo tcc\Projeto Sistema de Hotel\bin\Debug\Projeto Sistema de Hotel.pdb
+E:\Vb.net dom bosco\VB.NET\Andre Leo tcc\Projeto Sistema de Hotel\bin\Debug\Projeto Sistema de Hotel.xml
+E:\Vb.net dom bosco\VB.NET\Andre Leo tcc\Projeto Sistema de Hotel\obj\Debug\Projeto_Sistema_de_Hotel.FrmCadastrarCliente.resources
+E:\Vb.net dom bosco\VB.NET\Andre Leo tcc\Projeto Sistema de Hotel\obj\Debug\Projeto_Sistema_de_Hotel.FrmEstacionamento.resources
+E:\Vb.net dom bosco\VB.NET\Andre Leo tcc\Projeto Sistema de Hotel\obj\Debug\Projeto_Sistema_de_Hotel.FRMRestaurante.resources
+E:\Vb.net dom bosco\VB.NET\Andre Leo tcc\Projeto Sistema de Hotel\obj\Debug\Projeto_Sistema_de_Hotel.FrmSuites.resources
+E:\Vb.net dom bosco\VB.NET\Andre Leo tcc\Projeto Sistema de Hotel\obj\Debug\Projeto_Sistema_de_Hotel.FrmLogin.resources
+E:\Vb.net dom bosco\VB.NET\Andre Leo tcc\Projeto Sistema de Hotel\obj\Debug\Projeto_Sistema_de_Hotel.Resources.resources
+E:\Vb.net dom bosco\VB.NET\Andre Leo tcc\Projeto Sistema de Hotel\obj\Debug\Projeto_Sistema_de_Hotel.FrmPrincipal.resources
+E:\Vb.net dom bosco\VB.NET\Andre Leo tcc\Projeto Sistema de Hotel\obj\Debug\Projeto Sistema de Hotel.vbproj.GenerateResource.Cache
+E:\Vb.net dom bosco\VB.NET\Andre Leo tcc\Projeto Sistema de Hotel\obj\Debug\Projeto Sistema de Hotel.exe
+E:\Vb.net dom bosco\VB.NET\Andre Leo tcc\Projeto Sistema de Hotel\obj\Debug\Projeto Sistema de Hotel.xml
+E:\Vb.net dom bosco\VB.NET\Andre Leo tcc\Projeto Sistema de Hotel\obj\Debug\Projeto Sistema de Hotel.pdb
+F:\Andre Leo tcc\Projeto Sistema de Hotel\bin\Debug\Projeto Sistema de Hotel.exe.config
+F:\Andre Leo tcc\Projeto Sistema de Hotel\obj\Debug\Projeto Sistema de Hotel.exe
+F:\Andre Leo tcc\Projeto Sistema de Hotel\obj\Debug\Projeto Sistema de Hotel.xml
+F:\Andre Leo tcc\Projeto Sistema de Hotel\obj\Debug\Projeto Sistema de Hotel.pdb
+F:\Andre Leo tcc\Projeto Sistema de Hotel\bin\Debug\tb_cadastro.accdb
+F:\Andre Leo tcc\Projeto Sistema de Hotel\bin\Debug\Projeto Sistema de Hotel.exe
+F:\Andre Leo tcc\Projeto Sistema de Hotel\bin\Debug\Projeto Sistema de Hotel.pdb
+F:\Andre Leo tcc\Projeto Sistema de Hotel\bin\Debug\Projeto Sistema de Hotel.xml
+F:\Andre Leo tcc\Projeto Sistema de Hotel\obj\Debug\Projeto_Sistema_de_Hotel.FrmCadastrarCliente.resources
+F:\Andre Leo tcc\Projeto Sistema de Hotel\obj\Debug\Projeto_Sistema_de_Hotel.FrmEstacionamento.resources
+F:\Andre Leo tcc\Projeto Sistema de Hotel\obj\Debug\Projeto_Sistema_de_Hotel.FRMRestaurante.resources
+F:\Andre Leo tcc\Projeto Sistema de Hotel\obj\Debug\Projeto_Sistema_de_Hotel.FrmSuites.resources
+F:\Andre Leo tcc\Projeto Sistema de Hotel\obj\Debug\Projeto_Sistema_de_Hotel.FrmLogin.resources
+F:\Andre Leo tcc\Projeto Sistema de Hotel\obj\Debug\Projeto_Sistema_de_Hotel.Resources.resources
+F:\Andre Leo tcc\Projeto Sistema de Hotel\obj\Debug\Projeto_Sistema_de_Hotel.FrmPrincipal.resources
+F:\Andre Leo tcc\Projeto Sistema de Hotel\obj\Debug\Projeto Sistema de Hotel.vbproj.GenerateResource.Cache
+E:\Andre Leo tcc(Atualizado)\Projeto Sistema de Hotel\bin\Debug\Projeto Sistema de Hotel.exe.config
+E:\Andre Leo tcc(Atualizado)\Projeto Sistema de Hotel\obj\Debug\Projeto Sistema de Hotel.exe
+E:\Andre Leo tcc(Atualizado)\Projeto Sistema de Hotel\obj\Debug\Projeto Sistema de Hotel.xml
+E:\Andre Leo tcc(Atualizado)\Projeto Sistema de Hotel\obj\Debug\Projeto Sistema de Hotel.pdb
+E:\Andre Leo tcc(Atualizado)\Projeto Sistema de Hotel\bin\Debug\tb_cadastro.accdb
+E:\Andre Leo tcc(Atualizado)\Projeto Sistema de Hotel\bin\Debug\Projeto Sistema de Hotel.exe
+E:\Andre Leo tcc(Atualizado)\Projeto Sistema de Hotel\bin\Debug\Projeto Sistema de Hotel.pdb
+E:\Andre Leo tcc(Atualizado)\Projeto Sistema de Hotel\bin\Debug\Projeto Sistema de Hotel.xml
+E:\Andre Leo tcc(Atualizado)\Projeto Sistema de Hotel\obj\Debug\Projeto_Sistema_de_Hotel.FrmCadastrarCliente.resources
+E:\Andre Leo tcc(Atualizado)\Projeto Sistema de Hotel\obj\Debug\Projeto_Sistema_de_Hotel.FrmEstacionamento.resources
+E:\Andre Leo tcc(Atualizado)\Projeto Sistema de Hotel\obj\Debug\Projeto_Sistema_de_Hotel.FRMRestaurante.resources
+E:\Andre Leo tcc(Atualizado)\Projeto Sistema de Hotel\obj\Debug\Projeto_Sistema_de_Hotel.FrmSuites.resources
+E:\Andre Leo tcc(Atualizado)\Projeto Sistema de Hotel\obj\Debug\Projeto_Sistema_de_Hotel.FrmLogin.resources
+E:\Andre Leo tcc(Atualizado)\Projeto Sistema de Hotel\obj\Debug\Projeto_Sistema_de_Hotel.Resources.resources
+E:\Andre Leo tcc(Atualizado)\Projeto Sistema de Hotel\obj\Debug\Projeto_Sistema_de_Hotel.FrmPrincipal.resources
+E:\Andre Leo tcc(Atualizado)\Projeto Sistema de Hotel\obj\Debug\Projeto Sistema de Hotel.vbproj.GenerateResource.Cache
+F:\Andre Leo tcc(Atualizado)\Projeto Sistema de Hotel\bin\Debug\Projeto Sistema de Hotel.exe.config
+F:\Andre Leo tcc(Atualizado)\Projeto Sistema de Hotel\obj\Debug\Projeto Sistema de Hotel.exe
+F:\Andre Leo tcc(Atualizado)\Projeto Sistema de Hotel\obj\Debug\Projeto Sistema de Hotel.xml
+F:\Andre Leo tcc(Atualizado)\Projeto Sistema de Hotel\obj\Debug\Projeto Sistema de Hotel.pdb
+F:\Andre Leo tcc(Atualizado)\Projeto Sistema de Hotel\bin\Debug\tb_cadastro.accdb
+F:\Andre Leo tcc(Atualizado)\Projeto Sistema de Hotel\bin\Debug\Projeto Sistema de Hotel.exe
+F:\Andre Leo tcc(Atualizado)\Projeto Sistema de Hotel\bin\Debug\Projeto Sistema de Hotel.pdb
+F:\Andre Leo tcc(Atualizado)\Projeto Sistema de Hotel\bin\Debug\Projeto Sistema de Hotel.xml
+F:\Andre Leo tcc(Atualizado)\Projeto Sistema de Hotel\obj\Debug\Projeto Sistema de Hotel.vbprojResolveAssemblyReference.cache
+F:\Andre Leo tcc(Atualizado)\Projeto Sistema de Hotel\obj\Debug\Projeto_Sistema_de_Hotel.FrmCadastrarCliente.resources
+F:\Andre Leo tcc(Atualizado)\Projeto Sistema de Hotel\obj\Debug\Projeto_Sistema_de_Hotel.Consulta.resources
+F:\Andre Leo tcc(Atualizado)\Projeto Sistema de Hotel\obj\Debug\Projeto_Sistema_de_Hotel.FrmEstacionamento.resources
+F:\Andre Leo tcc(Atualizado)\Projeto Sistema de Hotel\obj\Debug\Projeto_Sistema_de_Hotel.FRMRestaurante.resources
+F:\Andre Leo tcc(Atualizado)\Projeto Sistema de Hotel\obj\Debug\Projeto_Sistema_de_Hotel.FrmSuites.resources
+F:\Andre Leo tcc(Atualizado)\Projeto Sistema de Hotel\obj\Debug\Projeto_Sistema_de_Hotel.FrmLogin.resources
+F:\Andre Leo tcc(Atualizado)\Projeto Sistema de Hotel\obj\Debug\Projeto_Sistema_de_Hotel.Resources.resources
+F:\Andre Leo tcc(Atualizado)\Projeto Sistema de Hotel\obj\Debug\Projeto_Sistema_de_Hotel.FrmPrincipal.resources
+F:\Andre Leo tcc(Atualizado)\Projeto Sistema de Hotel\obj\Debug\Projeto Sistema de Hotel.vbproj.GenerateResource.Cache
+F:\Andre Leo tcc(Atualizado)\Projeto Sistema de Hotel\obj\Debug\RdlCompile.cache
+F:\Andre Leo tcc(Atualizado)\Projeto Sistema de Hotel\obj\Debug\RdlCompile.compiled
+F:\Andre Leo tcc(Atualizado)\Projeto Sistema de Hotel\obj\Debug\Projeto_Sistema_de_Hotel.frmRelatoriocliente.resources
+E:\Andre Leo tcc(Atualizado)\Projeto Sistema de Hotel\obj\Debug\Projeto Sistema de Hotel.vbprojResolveAssemblyReference.cache
+E:\Andre Leo tcc(Atualizado)\Projeto Sistema de Hotel\obj\Debug\Projeto_Sistema_de_Hotel.Consulta.resources
+E:\Andre Leo tcc(Atualizado)\Projeto Sistema de Hotel\obj\Debug\Projeto_Sistema_de_Hotel.frmRelatoriocliente.resources
+E:\Andre Leo tcc(Atualizado)\Projeto Sistema de Hotel\obj\Debug\RdlCompile.cache
+E:\Andre Leo tcc(Atualizado)\Projeto Sistema de Hotel\obj\Debug\RdlCompile.compiled
+C:\Users\administrador1\Desktop\VB.NET\Andre Leo tcc(Atualizado)\Projeto Sistema de Hotel\bin\Debug\Projeto Sistema de Hotel.exe.config
+C:\Users\administrador1\Desktop\VB.NET\Andre Leo tcc(Atualizado)\Projeto Sistema de Hotel\obj\Debug\Projeto Sistema de Hotel.exe
+C:\Users\administrador1\Desktop\VB.NET\Andre Leo tcc(Atualizado)\Projeto Sistema de Hotel\obj\Debug\Projeto Sistema de Hotel.xml
+C:\Users\administrador1\Desktop\VB.NET\Andre Leo tcc(Atualizado)\Projeto Sistema de Hotel\obj\Debug\Projeto Sistema de Hotel.pdb
+C:\Users\administrador1\Desktop\VB.NET\Andre Leo tcc(Atualizado)\Projeto Sistema de Hotel\bin\Debug\tb_cadastro.accdb
+C:\Users\administrador1\Desktop\VB.NET\Andre Leo tcc(Atualizado)\Projeto Sistema de Hotel\bin\Debug\Projeto Sistema de Hotel.exe
+C:\Users\administrador1\Desktop\VB.NET\Andre Leo tcc(Atualizado)\Projeto Sistema de Hotel\bin\Debug\Projeto Sistema de Hotel.pdb
+C:\Users\administrador1\Desktop\VB.NET\Andre Leo tcc(Atualizado)\Projeto Sistema de Hotel\bin\Debug\Projeto Sistema de Hotel.xml
+C:\Users\administrador1\Desktop\VB.NET\Andre Leo tcc(Atualizado)\Projeto Sistema de Hotel\obj\Debug\Projeto Sistema de Hotel.vbprojResolveAssemblyReference.cache
+C:\Users\administrador1\Desktop\VB.NET\Andre Leo tcc(Atualizado)\Projeto Sistema de Hotel\obj\Debug\Projeto_Sistema_de_Hotel.AreaPet.resources
+C:\Users\administrador1\Desktop\VB.NET\Andre Leo tcc(Atualizado)\Projeto Sistema de Hotel\obj\Debug\Projeto_Sistema_de_Hotel.FrmCadastrarCliente.resources
+C:\Users\administrador1\Desktop\VB.NET\Andre Leo tcc(Atualizado)\Projeto Sistema de Hotel\obj\Debug\Projeto_Sistema_de_Hotel.Consulta.resources
+C:\Users\administrador1\Desktop\VB.NET\Andre Leo tcc(Atualizado)\Projeto Sistema de Hotel\obj\Debug\Projeto_Sistema_de_Hotel.FrmEstacionamento.resources
+C:\Users\administrador1\Desktop\VB.NET\Andre Leo tcc(Atualizado)\Projeto Sistema de Hotel\obj\Debug\Projeto_Sistema_de_Hotel.frmRelatoriocliente.resources
+C:\Users\administrador1\Desktop\VB.NET\Andre Leo tcc(Atualizado)\Projeto Sistema de Hotel\obj\Debug\Projeto_Sistema_de_Hotel.FRMRestaurante.resources
+C:\Users\administrador1\Desktop\VB.NET\Andre Leo tcc(Atualizado)\Projeto Sistema de Hotel\obj\Debug\Projeto_Sistema_de_Hotel.FrmSuites.resources
+C:\Users\administrador1\Desktop\VB.NET\Andre Leo tcc(Atualizado)\Projeto Sistema de Hotel\obj\Debug\Projeto_Sistema_de_Hotel.FrmLogin.resources
+C:\Users\administrador1\Desktop\VB.NET\Andre Leo tcc(Atualizado)\Projeto Sistema de Hotel\obj\Debug\Projeto_Sistema_de_Hotel.Resources.resources
+C:\Users\administrador1\Desktop\VB.NET\Andre Leo tcc(Atualizado)\Projeto Sistema de Hotel\obj\Debug\Projeto_Sistema_de_Hotel.FrmPrincipal.resources
+C:\Users\administrador1\Desktop\VB.NET\Andre Leo tcc(Atualizado)\Projeto Sistema de Hotel\obj\Debug\Projeto Sistema de Hotel.vbproj.GenerateResource.Cache
+C:\Users\administrador1\Desktop\VB.NET\Andre Leo tcc(Atualizado)\Projeto Sistema de Hotel\obj\Debug\RdlCompile.cache
+C:\Users\administrador1\Desktop\VB.NET\Andre Leo tcc(Atualizado)\Projeto Sistema de Hotel\obj\Debug\RdlCompile.compiled

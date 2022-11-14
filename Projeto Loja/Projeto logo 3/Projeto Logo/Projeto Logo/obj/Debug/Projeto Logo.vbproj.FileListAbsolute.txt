@@ -1,0 +1,14 @@
+E:\VB.NET\Projeto logo\Projeto Logo\Projeto Logo\bin\Debug\Projeto Logo.exe.config
+E:\VB.NET\Projeto logo\Projeto Logo\Projeto Logo\bin\Debug\Projeto Logo.exe
+E:\VB.NET\Projeto logo\Projeto Logo\Projeto Logo\bin\Debug\Projeto Logo.pdb
+E:\VB.NET\Projeto logo\Projeto Logo\Projeto Logo\bin\Debug\Projeto Logo.xml
+E:\VB.NET\Projeto logo\Projeto Logo\Projeto Logo\obj\Debug\Projeto_Logo.Resources.resources
+E:\VB.NET\Projeto logo\Projeto Logo\Projeto Logo\obj\Debug\Projeto Logo.vbproj.GenerateResource.Cache
+E:\VB.NET\Projeto logo\Projeto Logo\Projeto Logo\obj\Debug\Projeto Logo.exe
+E:\VB.NET\Projeto logo\Projeto Logo\Projeto Logo\obj\Debug\Projeto Logo.xml
+E:\VB.NET\Projeto logo\Projeto Logo\Projeto Logo\obj\Debug\Projeto Logo.pdb
+E:\VB.NET\Projeto logo\Projeto Logo\Projeto Logo\obj\Debug\Projeto_Logo.frmLogo.resources
+E:\VB.NET\Projeto logo 3\Projeto Logo\Projeto Logo\bin\Debug\Projeto Logo.exe.config
+E:\VB.NET\Projeto logo 3\Projeto Logo\Projeto Logo\obj\Debug\Projeto Logo.exe
+E:\VB.NET\Projeto logo 3\Projeto Logo\Projeto Logo\obj\Debug\Projeto Logo.xml
+E:\VB.NET\Projeto logo 3\Projeto Logo\Projeto Logo\obj\Debug\Projeto Logo.pdb

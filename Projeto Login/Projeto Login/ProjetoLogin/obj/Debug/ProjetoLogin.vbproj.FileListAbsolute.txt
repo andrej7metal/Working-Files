@@ -1,0 +1,14 @@
+E:\VB.NET\Projeto Login\ProjetoLogin\bin\Debug\ProjetoLogin.exe.config
+E:\VB.NET\Projeto Login\ProjetoLogin\bin\Debug\ProjetoLogin.exe
+E:\VB.NET\Projeto Login\ProjetoLogin\bin\Debug\ProjetoLogin.pdb
+E:\VB.NET\Projeto Login\ProjetoLogin\bin\Debug\ProjetoLogin.xml
+E:\VB.NET\Projeto Login\ProjetoLogin\obj\Debug\ProjetoLogin.FrmTelaDeLogin.resources
+E:\VB.NET\Projeto Login\ProjetoLogin\obj\Debug\ProjetoLogin.Resources.resources
+E:\VB.NET\Projeto Login\ProjetoLogin\obj\Debug\ProjetoLogin.vbproj.GenerateResource.Cache
+E:\VB.NET\Projeto Login\ProjetoLogin\obj\Debug\ProjetoLogin.exe
+E:\VB.NET\Projeto Login\ProjetoLogin\obj\Debug\ProjetoLogin.xml
+E:\VB.NET\Projeto Login\ProjetoLogin\obj\Debug\ProjetoLogin.pdb
+E:\VB.NET\Projeto Livros 9\Projeto Login\ProjetoLogin\bin\Debug\ProjetoLogin.exe.config
+E:\VB.NET\Projeto Livros 9\Projeto Login\ProjetoLogin\obj\Debug\ProjetoLogin.exe
+E:\VB.NET\Projeto Livros 9\Projeto Login\ProjetoLogin\obj\Debug\ProjetoLogin.xml
+E:\VB.NET\Projeto Livros 9\Projeto Login\ProjetoLogin\obj\Debug\ProjetoLogin.pdb
